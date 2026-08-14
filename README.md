@@ -1,4 +1,4 @@
-## # Predicting AI Assistant Reuse Among Students Using Machine Learning
+## # Makine Öğrenimi Kullanarak Öğrenciler Arasında Yapay Zeka Asistanlarının Yeniden Kullanımını Tahmin Etme
 
 ## Proje Özeti
 
