@@ -51,13 +51,9 @@ En başarılı model **Logistic Regression** olmuştur.
 
 ## Çalıştırma Adımları
 
-Gerekli kütüphaneleri yüklemek için:
+Notebook dosyasını Google Colab veya Jupyter Notebook ortamında açıp tüm hücreleri sırayla çalıştırmanız yeterlidir.
 
-```bash
-pip install -r requirements.txt
-```
 
-Ardından notebook dosyasını açıp tüm hücreleri sırayla çalıştırınız.
 
 ## Sonuç
 
